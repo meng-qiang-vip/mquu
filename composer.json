@@ -1,0 +1,20 @@
+{
+    "name": "mengqiang/mquu",
+    "type": "library",
+    "require": {
+        "monolog/monolog": "2.9.1"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mengqiang\\Mquu\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mq",
+            "email": "502263220@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
